@@ -3,8 +3,8 @@ body{
 
 }
 h1{
+    position: absolute;
     color: antiquewhite;
     text-align: center;
     top: 23px;
-    
 }
