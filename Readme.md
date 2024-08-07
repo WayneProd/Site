@@ -1,1 +1,1 @@
-Read me ska!
+Just my mini-repository hub!
