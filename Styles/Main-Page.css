@@ -1,4 +1,9 @@
 body{
-    background-color: darkslategray;
+    background-color: #2f4f4f;
 
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+    top: 23px;
 }
